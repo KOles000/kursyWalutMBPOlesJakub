@@ -1,0 +1,13 @@
+{
+    "table": "C",
+    "currency": "euro",
+    "code": "EUR",
+    "rates": [
+        {
+            "no": "232/C/NBP/2024",
+            "effectiveDate": "2024-11-29",
+            "bid": 4.2625,
+            "ask": 4.3487
+        }
+    ]
+}
